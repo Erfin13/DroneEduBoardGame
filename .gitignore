@@ -97,3 +97,34 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+=======
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build directories
+build/
+dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Unity specific (if applicable)
+Library/
+Temp/
+Obj/
+Build/
+UserSettings/

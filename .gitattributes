@@ -1,0 +1,13 @@
+# Ensure consistent line endings
+* text=auto
+
+# Unity specific
+*.unity text eol=lf
+*.meta text eol=lf
+
+# Files you want to treat as binary (e.g., images, models, etc.)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tiff binary
+*.mp3 binary

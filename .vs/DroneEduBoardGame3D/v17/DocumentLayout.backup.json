@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|c:\\users\\fcd26\\unity\\droneeduboardgame3d\\assets\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|c:\\users\\fcd26\\unity\\droneeduboardgame3d\\assets\\scripts\\backgroundfloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundfloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\assets\\scripts\\backgroundwithdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CC1F5-8C4F-CC1D-A7B2-121BF06B1A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundwithdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterMovement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAywB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:21:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackgroundFloat.cs",
+              "DocumentMoniker": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\BackgroundFloat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundFloat.cs",
+              "ToolTip": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\BackgroundFloat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundFloat.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABEwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:57:21.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
+              "ToolTip": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:21:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackgroundWithDrone.cs",
+              "DocumentMoniker": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\BackgroundWithDrone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundWithDrone.cs",
+              "ToolTip": "C:\\Users\\fcd26\\Unity\\DroneEduBoardGame3D\\Assets\\Scripts\\BackgroundWithDrone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundWithDrone.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:23:47.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

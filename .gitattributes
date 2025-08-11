@@ -11,3 +11,6 @@
 *.jpeg binary
 *.tiff binary
 *.mp3 binary
+*.apk binary
+*.aab binary
+*.unitypackage binary
